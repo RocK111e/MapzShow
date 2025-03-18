@@ -1,3 +1,2 @@
-#mock project
-import nympy  as np
+# mock project
 print("Hello World!")
